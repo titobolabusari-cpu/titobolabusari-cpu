@@ -1,4 +1,4 @@
-## Hi there, I'm [Tito] 👋
+## Hi there, I'm Tito 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
